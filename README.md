@@ -11,10 +11,11 @@
 <div id="viewprof" align=" center">
   <img src="https://komarev.com/ghpvc/?username=Ilaydi&style=flat-square&color=grey" alt=""/›
 ‹/ div>
-  
-<div id="heythere" align="ctnter"> 
+
+<div id="heythere" align="lcenter">
 <h1> Профиль на GITHUB
 </h1>
+<div id="heythere" align="left"> 
 
 ### :surfing_woman: Обо мне:
 
